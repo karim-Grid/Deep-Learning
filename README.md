@@ -1,4 +1,4 @@
 # MVA_Deep_Learning
 
-This the third Mini-Project of the Deep Learning Course. The goal of this project is to implement an agent able to learn in an environnement using Deep Reinforcement Learning
+In this repository you find the project that I have done to learn how to implement simple image classification and regression in Keras, Moreover you will also find the second Project to implement an agent able to learn in an environnement by using Deep Reinforcement Learning
 
